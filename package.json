@@ -1,0 +1,14 @@
+{
+  "name": "javascript-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "constants.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Hamza Raza",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^25.2.7"
+  }
+}
